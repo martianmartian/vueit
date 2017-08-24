@@ -1,0 +1,25 @@
+{
+  "thearray":[
+    {   
+        "tid":"lkf23l32jlk",
+        "tname": "firstCollection",
+        "imgurl":"img/1.png",
+        "cnames":[
+              {"id": 0, "name": "Die another day" },
+              {"id": 2, "name": "Yolo" },
+              {"id": 3, "name": "What" }
+            ]
+    },
+    {   
+        "tid":"lkf2332oklfsd",
+        "tname": "secondCollection",
+        "imgurl":"img/2.png",
+        "cnames":[
+              {"id": 0, "name": "we are the champions" },
+              {"id": 2, "name": "Deceptcon" },
+              {"id": 3, "name": "Maslino" }
+            ]
+
+    }
+  ]
+}

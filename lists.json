@@ -1,0 +1,20 @@
+{
+    "thearray":[
+        {
+            "tname": "firstCollection",
+            "cnames":[
+                  {"id": "0", "name": "Die another day"},
+                  {"id": "2", "name": "Yolo"},
+                  {"id": "3", "name": "Wha" }
+                ]
+        },
+        {
+            "tname": "firstCollection",
+            "cnames":[
+                  {"id": "0", "name": "Die another day" },
+                  {"id": "2", "name": "Yolo" },
+                  {"id": "3", "name": "What" }
+                ]
+        }
+    ]
+}
